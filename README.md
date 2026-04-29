@@ -11,6 +11,10 @@
 
 I am a **Full Stack Software Developer** specializing in creating scalable and secure web solutions. I have experience in **programming**, **cybersecurity**, and am currently delving deeper into **Data Science and AI**.
 
+<p align="center">
+  <img src="./Img/GIF.gif" width="45%">
+</p>
+
 ```javascript
 const sebastian = {
   identity: {
