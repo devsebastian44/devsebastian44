@@ -13,23 +13,60 @@ I am a **Full Stack Software Developer** specializing in creating scalable and s
 
 ```javascript
 const sebastian = {
-    role: "Full Stack Software Developer",
-    location: "Ecuador 🇪🇨",
-    education: "Oracle Next Education",
-    
-    code: ["JavaScript", "TypeScript", "Python", "PHP", "Go", "C#", "Kotlin", "Elixir"],
-    
-    technologies: {
-        frontend: ["React", "Next.js", "Angular", "Astro", "Tailwind CSS", "Bootstrap"],
-        backend: ["Node.js", "Express", "Laravel", "FastAPI"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Supabase", "Firebase"],
-        devOps: ["Docker", "AWS", "Jenkins", "Git", "GitLab", "Linux"],
-        security: ["Pentesting", "Malware Analysis", "Web Security", "Kali Linux"],
-        dataScience: ["Pandas", "Matplotlib", "Seaborn", "Neural Networks"]
+
+    expertise: {
+        languages: [
+            "JavaScript", "TypeScript", "Python",
+            "PHP", "Go", "C#", "Kotlin", "Elixir"
+        ],
+
+        frontend: {
+            frameworks: ["React", "Next.js", "Angular", "Astro"],
+            styling: ["Tailwind CSS", "Bootstrap"],
+        },
+
+        backend: {
+            runtime: ["Node.js"],
+            frameworks: ["Express", "Laravel", "FastAPI"],
+        },
+
+        data: {
+            databases: ["PostgreSQL", "MySQL", "MongoDB"],
+            realtime: ["Firebase", "Supabase"],
+            caching: ["Redis"]
+        },
+
+        devOps: {
+            tools: ["Docker", "Jenkins"],
+            cloud: ["AWS"],
+            os: ["Linux"]
+        },
+
+        security: {
+            domains: [
+                "Pentesting",
+                "Malware Analysis",
+                "Web Security"
+            ],
+            tools: ["Kali Linux"]
+        },
+
+        aiAndData: {
+            libraries: ["Pandas", "Matplotlib", "Seaborn"],
+            topics: ["Machine Learning", "Neural Networks"]
+        }
     },
+
+    focus: [
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Scalable Systems Design"
+    ],
+
+    links: {
+        portfolio: "https://devsebastian44.vercel.app/"
+    }
     
-    currentFocus: ["Data Science & AI", "Cybersecurity", "Machine Learning"],
-    portfolio: "https://devsebastian44.vercel.app/"
 };
 ```
 
@@ -46,7 +83,18 @@ const sebastian = {
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,react,angular,astro,bootstrap,tailwind,jquery,nodejs,php,laravel,python,go,elixir,cs,kotlin,postgresql,mysql,mongodb,redis,docker,supabase,firebase,prisma,sklearn,postman,aws,jenkins,git,github,linux,bash,kali,vercel,figma,obsidian)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,astro,tailwind,nodejs,express,laravel,fastapi,python,go,postgres,mysql,mongodb,redis,docker,aws,jenkins,git,linux,kali,firebase,vercel&perline=9" />
+</p>
+
+---
+
+## ⭐ Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsebastian44&theme=dark&show_icons=true&hide_border=true&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsebastian44&theme=dark&hide_border=true" />
+</p>
 
 
 <!--
