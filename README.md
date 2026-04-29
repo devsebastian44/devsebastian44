@@ -13,8 +13,7 @@
 <img src="./Img/GIF.gif" width="30%">
 </p>
 
-I am a Full Stack Software Developer specializing in building scalable, high-performance, and secure web applications. My expertise spans modern web technologies, cybersecurity, and system design, with a strong focus on creating efficient and reliable solutions.
-Currently, I am deepening my knowledge in Data Science, Artificial Intelligence, and Machine Learning, integrating these fields to develop smarter and more robust systems.
+👨‍💻 I am a Full Stack Software Developer specializing in building scalable, high-performance, and secure web applications. My expertise spans modern web technologies, cybersecurity 🛡️, and system design, with a strong focus on creating efficient and reliable solutions. Currently, I am deepening my knowledge in Data Science 📊, Artificial Intelligence 🤖, and Machine Learning, integrating these fields to develop smarter and more robust systems 🚀.
 
 
 ```javascript
