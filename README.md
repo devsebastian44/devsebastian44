@@ -9,18 +9,19 @@
 
 ## 🚀 About Me
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="340">
-      <img src="./Img/GIF.gif" width="320" alt="coding-gif"/>
+    <td width="280" style="border:none">
+      <img src="./Img/GIF.gif" width="260" alt="coding-gif"/>
     </td>
-    <td width="20"></td>
-    <td valign="top">
-      <p>👨‍💻 I am a <strong>Full Stack Software Developer</strong> specializing in building scalable, high-performance, and secure web applications.</p>
-      <p>🌐 My expertise spans modern web technologies, cybersecurity, and system design, with a strong focus on creating efficient and reliable solutions.</p>
-      <p>🤖 Currently, I am deepening my knowledge in <strong>Data Science, Artificial Intelligence, and Machine Learning</strong>, integrating these fields to develop smarter and more robust systems.</p>
-      <p>🛡️ Passionate about <strong>Cybersecurity</strong>, ethical hacking, and building systems that are not only powerful but also secure by design.</p>
-      <p>🚀 Always exploring new technologies, contributing to open source, and pushing the boundaries of what's possible in software engineering.
+    <td width="30" style="border:none"></td>
+    <td valign="top" style="border:none">
+      <p>👨‍💻 <strong>Full Stack Developer</strong> building scalable, high-performance and secure web apps.</p>
+      <p>🌐 Expertise in modern web technologies, cybersecurity and system design focused on efficient solutions.</p>
+      <p>🤖 Deepening knowledge in <strong>Data Science, AI and Machine Learning</strong> to build smarter systems.</p>
+      <p>🛡️ Passionate about <strong>Cybersecurity</strong>, ethical hacking and secure-by-design systems.</p>
+      <p>🚀 Always exploring new tech, contributing to open source and pushing software engineering limits.</p>
+      <p>📍 Based in <strong>Ecuador</strong>, open to remote opportunities worldwide.</p>
     </td>
   </tr>
 </table>
