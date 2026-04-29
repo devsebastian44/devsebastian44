@@ -13,60 +13,25 @@ I am a **Full Stack Software Developer** specializing in creating scalable and s
 
 ```javascript
 const sebastian = {
+  identity: {
+    name: "Sebastian Zhunaula",
+    specialization: "Scalable Web Systems, Cybersecurity & AI",
+    location: "Ecuador"
+  },
 
-    expertise: {
-        languages: [
-            "JavaScript", "TypeScript", "Python",
-            "PHP", "Go", "C#", "Kotlin", "Elixir"
-        ],
+  stack: {
+    languages: ["JS", "TS", "Python", "Go"],
+    frontend: ["React", "Next.js", "Angular", "Astro", "Tailwind"],
+    backend: ["Node.js", "Express", "Laravel", "FastAPI"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    devOps: ["Docker", "AWS", "Jenkins", "Linux", "Git"],
+    security: ["Pentesting", "Web Security", "Kali"],
+    ai: ["Pandas", "Machine Learning", "Neural Networks"]
+  },
 
-        frontend: {
-            frameworks: ["React", "Next.js", "Angular", "Astro"],
-            styling: ["Tailwind CSS", "Bootstrap"],
-        },
+  focus: ["Scalable Systems", "Cybersecurity", "AI"],
 
-        backend: {
-            runtime: ["Node.js"],
-            frameworks: ["Express", "Laravel", "FastAPI"],
-        },
-
-        data: {
-            databases: ["PostgreSQL", "MySQL", "MongoDB"],
-            realtime: ["Firebase", "Supabase"],
-            caching: ["Redis"]
-        },
-
-        devOps: {
-            tools: ["Docker", "Jenkins"],
-            cloud: ["AWS"],
-            os: ["Linux"]
-        },
-
-        security: {
-            domains: [
-                "Pentesting",
-                "Malware Analysis",
-                "Web Security"
-            ],
-            tools: ["Kali Linux"]
-        },
-
-        aiAndData: {
-            libraries: ["Pandas", "Matplotlib", "Seaborn"],
-            topics: ["Machine Learning", "Neural Networks"]
-        }
-    },
-
-    focus: [
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Scalable Systems Design"
-    ],
-
-    links: {
-        portfolio: "https://devsebastian44.vercel.app/"
-    }
-
+  portfolio: "devsebastian44.vercel.app"
 };
 ```
 
