@@ -92,8 +92,8 @@ const sebastian = {
 ## ⭐ Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsebastian44&theme=dark&show_icons=true&hide_border=true&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsebastian44&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsebastian44&theme=dark&show_icons=true&hide_border=true&count_private=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devsebastian44&theme=dark&hide_border=true" />
 </p>
 
 
