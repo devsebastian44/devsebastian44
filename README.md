@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 <p align="center">
-<img src="./Img/GIF.gif" width="40%">
+<img src="./Img/GIF.gif" width="30%">
 </p>
 
 I am a Full Stack Software Developer specializing in building scalable, high-performance, and secure web applications. My expertise spans modern web technologies, cybersecurity, and system design, with a strong focus on creating efficient and reliable solutions.
