@@ -9,22 +9,12 @@
 
 ## 🚀 About Me
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="280" style="border:none">
-      <img src="./Img/GIF.gif" width="260" alt="coding-gif"/>
-    </td>
-    <td width="30" style="border:none"></td>
-    <td valign="top" style="border:none">
-      <p>👨‍💻 <strong>Full Stack Developer</strong> building scalable, high-performance and secure web apps.</p>
-      <p>🌐 Expertise in modern web technologies, cybersecurity and system design focused on efficient solutions.</p>
-      <p>🤖 Deepening knowledge in <strong>Data Science, AI and Machine Learning</strong> to build smarter systems.</p>
-      <p>🛡️ Passionate about <strong>Cybersecurity</strong>, ethical hacking and secure-by-design systems.</p>
-      <p>🚀 Always exploring new tech, contributing to open source and pushing software engineering limits.</p>
-      <p>📍 Based in <strong>Ecuador</strong>, open to remote opportunities worldwide.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="./Img/GIF.gif" width="40%">
+</p>
+
+I am a Full Stack Software Developer specializing in building scalable, high-performance, and secure web applications. My expertise spans modern web technologies, cybersecurity, and system design, with a strong focus on creating efficient and reliable solutions.
+Currently, I am deepening my knowledge in Data Science, Artificial Intelligence, and Machine Learning, integrating these fields to develop smarter and more robust systems.
 
 
 ```javascript
