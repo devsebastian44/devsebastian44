@@ -55,7 +55,7 @@ const sebastian = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,astro,tailwind,nodejs,express,laravel,fastapi,python,go,postgres,mysql,mongodb,redis,firebase,supabase,docker,aws,jenkins,git,github,linux,bash,kali,vercel,figma,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,astro,tailwind,nodejs,express,laravel,fastapi,python,go,postgres,mysql,mongodb,redis,firebase,supabase,docker,aws,jenkins,git,sklearn,linux,bash,kali,vercel,figma,postman&perline=8" />
 </p>
 
 <!--
