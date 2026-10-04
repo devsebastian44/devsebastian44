@@ -1,18 +1,17 @@
-# 👋 Hola, soy Sebastian
+# 👋 Hello World, I'm Sebastian
 
 <p align="center">
 <img src="./Img/Banner.png">
 </p>
 
-<p align="right"><a href="./README-EN.md">🇬🇧 English version</a></p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-👨‍💻 Soy **desarrollador de software full stack** y me especializo en crear aplicaciones web escalables, seguras y de alto rendimiento. Mi experiencia abarca tecnologías web modernas, **ciberseguridad** 🛡️ y diseño de sistemas, con un enfoque en crear soluciones eficientes y confiables.
+👨‍💻 I am a **Full Stack Software Developer** specializing in building scalable, high-performance, and secure web applications. My expertise spans modern web technologies, **cybersecurity** 🛡️, and system design, with a strong focus on creating efficient and reliable solutions.
 
-🤖 Actualmente, estoy profundizando mis conocimientos en **ciencia de datos**, **inteligencia artificial** y **aprendizaje automático**, e integrando estas disciplinas para desarrollar sistemas más inteligentes y robustos 🚀.
+🤖 Currently, I am deepening my knowledge in **Data Science**, **Artificial Intelligence**, and **Machine Learning**, integrating these fields to develop smarter and more robust systems 🚀.
 
 <p align="center">
 <img src="./Img/GIF.gif" width="30%">
@@ -42,18 +41,18 @@ const sebastian = {
 };
 ```
 
-## 🎯 En qué estoy trabajando
+## 🎯 What I'm Up To
 
-| 💻 Programación y desarrollo | 🔒 Ciberseguridad | 🧠 Ciencia de datos e IA |
+| 💻 Programming & Development | 🔒 Cybersecurity | 🧠 Data Science & AI |
 |------------------------------|------------------|----------------------|
-| 🌱 Creando aplicaciones web escalables | 🛡️ Hacking ético y pruebas de penetración | 📊 Aprendiendo análisis y visualización de datos |
-| 🚀 Explorando frameworks y herramientas modernas | 🔍 Análisis de vulnerabilidades | 🤖 Explorando algoritmos de aprendizaje automático |
-| 🎨 Diseñando interfaces de usuario atractivas | 🕵️ Investigación de malware | 🧬 Estudiando redes neuronales y aprendizaje profundo |
-| ⚡ Optimizando el rendimiento y la arquitectura | 🔐 Seguridad de aplicaciones web | 📈 Trabajando con Pandas, Matplotlib y Seaborn |
+| 🌱 Building scalable web applications | 🛡️ Ethical Hacking & Pentesting | 📊 Learning Data Analysis & Visualization |
+| 🚀 Exploring modern frameworks & tools | 🔍 Vulnerability Analysis | 🤖 Exploring Machine Learning Algorithms |
+| 🎨 Creating beautiful user interfaces | 🕵️ Malware Research | 🧬 Studying Neural Networks & Deep Learning |
+| ⚡ Optimizing performance & architecture | 🔐 Web Application Security | 📈 Working with Pandas, Matplotlib, and Seaborn |
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,astro,tailwind,nodejs,express,laravel,fastapi,python,go,postgres,mysql,mongodb,redis,firebase,supabase,docker,aws,jenkins,git,sklearn,linux,bash,kali,vercel,figma,postman&perline=8" />
@@ -64,7 +63,7 @@ const sebastian = {
 ---
 
 
-## ⭐ Estadísticas de GitHub
+## ⭐ Github Stats
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=devsebastian44&theme=dark&show_icons=true&hide_border=true&count_private=false" />
@@ -77,7 +76,7 @@ const sebastian = {
 
 <!--
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
 [![FakeAP](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=FakeAP&theme=dark)](https://github.com/Devsebastian44/FakeAP)
 [![Sandboxed](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Sandboxed&theme=dark)](https://github.com/Devsebastian44/Sandboxed)
@@ -87,9 +86,9 @@ const sebastian = {
 ---
 
 
-## 📫 Conectemos
+## 📫 Let's Connect
 
-¿Te interesa colaborar o tienes algún proyecto en mente? ¡Construyamos algo increíble!
+Interested in collaborating or have a project in mind? Let's build something amazing together!
 
-[![Portafolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devsebastian44.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devsebastian44.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsebastian44/)
