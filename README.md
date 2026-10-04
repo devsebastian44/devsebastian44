@@ -6,8 +6,6 @@
 
 <p align="right"><a href="./README-EN.md">🇬🇧 English version</a></p>
 
----
-
 ## 🚀 Sobre mí
 
 👨‍💻 Soy **desarrollador de software full stack** y me especializo en crear aplicaciones web escalables, seguras y de alto rendimiento. Mi experiencia abarca tecnologías web modernas, **ciberseguridad** 🛡️ y diseño de sistemas, con un enfoque en crear soluciones eficientes y confiables.
